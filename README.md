@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀 XRAY Multiport Websocket Premium By Vinstechmy 🚀
+🚀 XRAY Multiport Websocket  🚀
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -68,7 +68,7 @@ SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTING
 ♦️ Installation Link<br>
 
   ```html
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/MultiportWebsocketPremium/main/V1/setup-lite.sh && chmod +x setup-lite.sh && ./setup-lite.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/asa140291/AutoVPN/main/V1/setup-lite.sh && chmod +x setup-lite.sh && ./setup-lite.sh
   ```
   
 ♦️ Daftar IP RM10 / 2 IP (Lifetime)<br>

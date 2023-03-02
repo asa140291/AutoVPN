@@ -70,12 +70,6 @@ SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTING
   ```html
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/asa140291/AutoVPN/main/V1/setup-lite.sh && chmod +x setup-lite.sh && ./setup-lite.sh
   ```
-  
-♦️ Daftar IP RM10 / 2 IP (Lifetime)<br>
-<br> 
-<a href="https://t.me/Vinstechmy" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br> 
-
-</b>
 
 ## ⏩ XRAY MULTIPORT WEBSOCKET AUTOSCRIPT EXAMPLE ⏪
 <b>
